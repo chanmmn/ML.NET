@@ -1,0 +1,10 @@
+D:\ML\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\ML\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.deps.json
+D:\ML\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.dll
+D:\ML\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.pdb
+D:\ML\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csprojAssemblyReference.cache
+D:\ML\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfoInputs.cache
+D:\ML\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfo.cs
+D:\ML\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csproj.CoreCompileInputs.cache
+D:\ML\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.dll
+D:\ML\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.pdb
