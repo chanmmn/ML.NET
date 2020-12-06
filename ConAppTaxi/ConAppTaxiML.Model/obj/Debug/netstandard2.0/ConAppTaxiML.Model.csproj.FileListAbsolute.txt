@@ -1,0 +1,10 @@
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\bin\Debug\netstandard2.0\ConAppTaxiML.Model.deps.json
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\bin\Debug\netstandard2.0\ConAppTaxiML.Model.dll
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\bin\Debug\netstandard2.0\ConAppTaxiML.Model.pdb
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\obj\Debug\netstandard2.0\ConAppTaxiML.Model.csprojAssemblyReference.cache
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\obj\Debug\netstandard2.0\ConAppTaxiML.Model.AssemblyInfoInputs.cache
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\obj\Debug\netstandard2.0\ConAppTaxiML.Model.AssemblyInfo.cs
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\obj\Debug\netstandard2.0\ConAppTaxiML.Model.csproj.CoreCompileInputs.cache
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\obj\Debug\netstandard2.0\ConAppTaxiML.Model.dll
+C:\test\other\ml\ConAppTaxi\ConAppTaxiML.Model\obj\Debug\netstandard2.0\ConAppTaxiML.Model.pdb
