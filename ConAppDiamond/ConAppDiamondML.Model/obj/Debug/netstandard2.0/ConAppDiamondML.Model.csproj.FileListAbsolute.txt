@@ -1,0 +1,10 @@
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\bin\Debug\netstandard2.0\ConAppDiamondML.Model.deps.json
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\bin\Debug\netstandard2.0\ConAppDiamondML.Model.dll
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\bin\Debug\netstandard2.0\ConAppDiamondML.Model.pdb
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\obj\Debug\netstandard2.0\ConAppDiamondML.Model.csprojAssemblyReference.cache
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\obj\Debug\netstandard2.0\ConAppDiamondML.Model.AssemblyInfoInputs.cache
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\obj\Debug\netstandard2.0\ConAppDiamondML.Model.AssemblyInfo.cs
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\obj\Debug\netstandard2.0\ConAppDiamondML.Model.csproj.CoreCompileInputs.cache
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\obj\Debug\netstandard2.0\ConAppDiamondML.Model.dll
+C:\test\other\ml\ConAppDiamond\ConAppDiamondML.Model\obj\Debug\netstandard2.0\ConAppDiamondML.Model.pdb
