@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MLModel1_WebApi1.props" />
+</Project>

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\other\\2024\\BlazorAppCallML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF384BAD-CA66-4E1C-9A12-6C17EE79082E}|BlazorAppCallML\\BlazorAppCallML.csproj|c:\\test\\other\\2024\\blazorappcallml\\blazorappcallml\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF384BAD-CA66-4E1C-9A12-6C17EE79082E}|BlazorAppCallML\\BlazorAppCallML.csproj|solutionrelative:blazorappcallml\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF384BAD-CA66-4E1C-9A12-6C17EE79082E}|BlazorAppCallML\\BlazorAppCallML.csproj|c:\\test\\other\\2024\\blazorappcallml\\blazorappcallml\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF384BAD-CA66-4E1C-9A12-6C17EE79082E}|BlazorAppCallML\\BlazorAppCallML.csproj|solutionrelative:blazorappcallml\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\test\\other\\2024\\BlazorAppCallML\\BlazorAppCallML\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorAppCallML\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\test\\other\\2024\\BlazorAppCallML\\BlazorAppCallML\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorAppCallML\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAABcAAADAZmZmZmYkwBIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T03:17:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\test\\other\\2024\\BlazorAppCallML\\BlazorAppCallML\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorAppCallML\\Pages\\Counter.razor",
+              "ToolTip": "C:\\test\\other\\2024\\BlazorAppCallML\\BlazorAppCallML\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorAppCallML\\Pages\\Counter.razor",
+              "ViewState": "AQIAABkAAAAAZ2ZmZmb0vw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T15:03:23.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

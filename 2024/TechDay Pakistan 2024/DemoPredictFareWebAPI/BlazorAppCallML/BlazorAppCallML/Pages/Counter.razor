@@ -1,0 +1,44 @@
+﻿ @page "/callapi"
+ @using System.Text;
+
+<PageTitle>Call API</PageTitle>
+
+<h1>Call API</h1>
+
+@* <p role="status">Current count: @currentCount</p> *@
+<p role="status">Response: @result</p>
+
+@* <button class="btn btn-primary" @onclick="IncrementCount">Click me</button> *@
+<button class="btn btn-primary" @onclick="GetData">Call API</button>
+
+@code {
+    // private int currentCount = 0;
+
+    // private void IncrementCount()
+    // {
+    //     currentCount++;
+    // }
+    string result = "";
+    private async Task GetData()
+    {
+        var jsonPayload = "{\"passenger_count\": 1, \"trip_time_in_secs\": 1, \"trip_distance\": 45, \"payment_type\": \"CRD\", \"fare_amount\": 0}";
+
+        using (var client = new HttpClient())
+        {
+            var content = new StringContent(jsonPayload, Encoding.UTF8, "application/json");
+            var apiUrl = "https://localhost:49856/predict"; // Replace with your actual API URL            
+
+            var response = await client.PostAsync(apiUrl, content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                //var result = await response.Content.ReadAsStringAsync();
+                result = await response.Content.ReadAsStringAsync();
+            }
+            else
+            {
+                result = $"Error: {response.StatusCode}";
+            }
+        }        
+    }
+}
