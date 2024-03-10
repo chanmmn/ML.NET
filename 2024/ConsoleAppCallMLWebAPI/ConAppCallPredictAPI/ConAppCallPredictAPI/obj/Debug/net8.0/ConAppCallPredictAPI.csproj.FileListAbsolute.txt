@@ -1,0 +1,34 @@
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.exe
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.deps.json
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.runtimeconfig.json
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.dll
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.pdb
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.AssemblyInfoInputs.cache
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.AssemblyInfo.cs
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.csproj.CoreCompileInputs.cache
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.dll
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\refint\ConAppCallPredictAPI.dll
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.pdb
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.genruntimeconfig.cache
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ref\ConAppCallPredictAPI.dll
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.csproj.AssemblyReference.cache
+C:\test\other\2024\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCa.81F3EC68.Up2Date
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.exe
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.deps.json
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.runtimeconfig.json
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.dll
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\ConAppCallPredictAPI.pdb
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.csproj.AssemblyReference.cache
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.AssemblyInfoInputs.cache
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.AssemblyInfo.cs
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.csproj.CoreCompileInputs.cache
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCa.81F3EC68.Up2Date
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.dll
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\refint\ConAppCallPredictAPI.dll
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.pdb
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ConAppCallPredictAPI.genruntimeconfig.cache
+D:\mydata\OneDrive - mvp\temp\mvp\2024\Global AI Bootcamp 2024\GlobalAIBootcamp2024Demo\ConAppCallPredictAPI\ConAppCallPredictAPI\obj\Debug\net8.0\ref\ConAppCallPredictAPI.dll
